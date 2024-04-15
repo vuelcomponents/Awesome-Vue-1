@@ -1335,7 +1335,7 @@ Tooltips / popovers
 ### Calendar
 
 *Display non-editable events in a Calendar*
-
+ - [vuelcalendar](https://vuelcomponents.github.io/) - Vue Scheduling Calendar. 100% free use & support. Angular & Vanilla support in v1.5 
  - [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) - Vue calendar fullCalendar. No jQuery required. Schedule events management.
  - [vue-event-calendar](https://github.com/GeoffZhu/vue-event-calendar) - A simple events calendar for Vue2, no dependencies except Vue2.
  - [vue-calendar-picker](https://github.com/FranckFreiburger/vue-calendar-picker) - Lightweight calendar component for events display, period selection and date picker.
